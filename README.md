@@ -30,6 +30,12 @@ cd build/gnat
 make SDL_PLATFORM=linux SDL_MODE=release
 ```
 
+### AURA
+
+You can use this library with the AURA build system and package manager.
+
+At the point in development, this repository should be extracted into the local repository of an AURA project (as a subdirectory), named "sdl".
+
 ### Alire
 
 You can build the library with Alire now, by calling the following in the root directory:
@@ -61,6 +67,7 @@ You can find more examples hosted on [Rosetta Code](http://www.rosettacode.org/w
 ## Copyright
 
 Copyright (C) 2013-2020, Luke A. Guest
+Copyright (C) 2022, ANNEXI-STRAYLINE
 
 ## Thanks to
 
